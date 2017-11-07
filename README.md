@@ -2,7 +2,7 @@
 
 This code takes counts number of tweets in the batch and number of the most used words.
 
-# To start you need:
+## To start you need:
 ### Download and extract an Apache Kafka binary from: 
 https://kafka.apache.org/downloads.html
 ### Start zookeeper service in a kafka folder(where you extract the binary):
